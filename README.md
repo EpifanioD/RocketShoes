@@ -10,6 +10,10 @@
     Projeto para ultilizar o REDUX!
 </h3>
 
+## Nome da Aplicação: RocketShoes (uma aplicação inspirada no NetShoes)
+
+Voltada para e-commerce, onde contém duas páginas uma que oferece os produtos e a outra que é o carrinho. Com o Redux consegui fazer com que alguns estados se comporte de maneira única entre as páginas, o valor que é alterado em uma reage na outra (falo especificamente da compra do produto)
+
 ## Stack
 
 - Website
